@@ -9,3 +9,7 @@
 .img-circle {
   border-radius: 50%;
 }
+
+.content-center h1 {
+  font-family: 'Montserrat', sans-serif;
+}
